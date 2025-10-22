@@ -3,7 +3,7 @@
 ## Description
 
 This project will store the UI automated tests.
-
+ 
 ### Technical stack
 
 - Python 3.8 based project ( any Python version > 3.5 will work)
