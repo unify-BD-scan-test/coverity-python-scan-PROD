@@ -14,7 +14,7 @@ This project will store the UI automated tests.
 
 ## How to run the project?
 
-In order to run the project, we'll need to perform the following steps:
+In order to run the project, we'll need to perform the following steps: 
 
 ## Setting up the local environment and dependencies
 
